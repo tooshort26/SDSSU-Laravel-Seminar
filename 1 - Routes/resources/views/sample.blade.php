@@ -1,0 +1,1 @@
+<a href="{{ route('name_of_route') }}">Click me for route name</a>
